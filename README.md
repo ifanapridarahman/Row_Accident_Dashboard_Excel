@@ -17,6 +17,7 @@ Klien ingin membuat Dashboard Kecelakaan Lalu Lintas untuk tahun 2021 dan 2022 a
 
 ## Interaksi Dashboard
 - <a href="https://docs.google.com/spreadsheets/d/1Zyz88W-2UJwXPlV_3pguACibj7fFmGcL/edit?usp=sharing&ouid=104449482606139231652&rtpof=true&sd=true">View Dashboard</a>
+Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
 
 ## Dashboard
 - <a href="https://github.com/ifanapridarahman/Row_Accident_Dashboard_Excel/blob/main/Road%20Accident%20Dashboard.png">Dashboard</a>
