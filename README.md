@@ -14,3 +14,11 @@ Klien ingin membuat Dashboard Kecelakaan Lalu Lintas untuk tahun 2021 dan 2022 a
 5. Jumlah korban terbanyak berdasarkan jenis jalan.
 6. Distribusi total korban berdasarkan kondisi permukaan jalan.
 7. Hubungan antara jumlah korban berdasarkan area/lokasi dengan waktu (siang/malam).
+
+## Interaksi Dashboard
+- <a href="https://docs.google.com/spreadsheets/d/1Zyz88W-2UJwXPlV_3pguACibj7fFmGcL/edit?usp=sharing&ouid=104449482606139231652&rtpof=true&sd=true">View Dashboard</a>
+
+## Dashboard
+- <a href="https://github.com/ifanapridarahman/Row_Accident_Dashboard_Excel/blob/main/Road%20Accident%20Dashboard.png">Dashboard</a>
+![Road Accident Dashboard](https://github.com/user-attachments/assets/f8b84c0d-74ee-4e63-bf6a-858d30d96cb0)
+
