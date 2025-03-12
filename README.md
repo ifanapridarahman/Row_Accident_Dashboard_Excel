@@ -23,3 +23,18 @@ Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
 - <a href="https://github.com/ifanapridarahman/Row_Accident_Dashboard_Excel/blob/main/Road%20Accident%20Dashboard.png">Dashboard</a>
 ![Road Accident Dashboard](https://github.com/user-attachments/assets/f8b84c0d-74ee-4e63-bf6a-858d30d96cb0)
 
+## Insight Utama
+1. **Gambaran Umum Kecelakaan**
+**Insight**
+- Sebagian besar korban kecelakaan memiliki luka ringan (84,1%), tetapi jumlah korban fatal juga cukup tinggi (7.135 jiwa)
+- Pencegahan kecelakaan serius sangat penting, terutama dalam hal peningkatan keselamatan jalan dan kendaraan
+2. **Kecelakaan Berdasarkan Jenis Kendaraan**
+- Mobil menyumbang korban terbanyak: 333.485 (79,8%)
+- Motor menyumbang korban kedua terbanyak: 33.764
+- Bus dan sepeda memiliki korban lebih sedikit dibandingkan mobil dan motor.
+**Insight**
+- Mobil merupakan penyebab utama kecelakaan lalu lintas
+- Pengendara motor juga cukup rentan terhadap kecelakaan
+- Diperlukan peningkatan regulasi dan edukasi untuk pengemudi mobil dan motor guna menekan angka kecelakaan
+  
+
