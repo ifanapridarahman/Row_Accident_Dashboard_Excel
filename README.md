@@ -36,5 +36,20 @@ Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
   - Mobil merupakan penyebab utama kecelakaan lalu lintas
   - Pengendara motor juga cukup rentan terhadap kecelakaan
   - Diperlukan peningkatan regulasi dan edukasi untuk pengemudi mobil dan motor guna menekan angka kecelakaan
+3. **Lokasi Kecelakaan**
+    - Urban (Perkotaan): 255.864 korban (61,2%)
+    - Rural (Pedesaan): 162.019 korban (38,8%)
+- **Insight**
+  - Sebagian besar kecelakaan terjadi di daerah perkotaan, kemungkinan karena volume kendaraan yang lebih tinggi dan lalu lintas yang lebih padat
+  - Namun, kecelakaan di daerah pedesaan juga tetap tinggi, bisa jadi karena kecepatan kendaraan yang lebih tinggi atau kondisi jalan yang lebih buruk
+  - Strategi keselamatan harus disesuaikan untuk masing-masing lokasi, seperti peningkatan rambu lalu lintas di perkotaan dan perbaikan jalan di pedesaan.
+4. **Waktu Terjadinya Kecelakaan (Siang vs Malam)**
+    - Siang Hari: 309.463 korban (73%)
+    - Malam Hari: 112.920 korban (27%)
+- **Insight**
+  - Mayoritas kecelakaan terjadi pada siang hari, kemungkinan karena tingginya aktivitas lalu lintas pada jam kerja.
+  - Namun, kecelakaan malam hari masih signifikan (27%), mungkin karena faktor pencahayaan yang kurang dan kelelahan pengemudi
+  - Perlu peningkatan penerangan jalan dan kampanye keselamatan berkendara di malam hari
+5. **Jenis Jalan yang Paling Banyak Terjadi Kecelakaan)**
   
 
