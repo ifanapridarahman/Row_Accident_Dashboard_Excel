@@ -64,10 +64,9 @@ Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
   - Sebagian besar kecelakaan terjadi di jalan kering, menunjukkan bahwa kecepatan kendaraan dan perilaku pengemudi lebih berpengaruh dibanding kondisi cuaca
   - Namun, kecelakaan di jalan basah cukup tinggi, sehingga peningkatan kesadaran pengemudi tentang cara berkendara saat hujan sangat penting
 7. **Tren Kecelakaan per Bulan (2021 vs 2022)**
-    - Terjadi peningkatan jumlah kecelakaan sepanjang tahun 2022 dibanding 2021
-    - Jumlah kecelakaan cenderung stabil setiap bulan, dengan sedikit peningkatan di pertengahan tahun
+    - Terjadi penurunan jumlah kecelakaan sepanjang tahun 2022 dibanding 2021
+    - Jumlah kecelakaan cenderung stabil setiap bulan, dengan sedikit peningkatan di akhir tahun
 - **Insight**
-  - Perlu dilakukan analisis lebih lanjut mengenai faktor penyebab peningkatan kecelakaan di tahun 2022
   - Bisa jadi ada faktor eksternal seperti peningkatan jumlah kendaraan atau perubahan kebijakan lalu lintas
 
 ## Kesimpulan dan Rekomendasi
@@ -76,4 +75,3 @@ Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
 3. Edukasi pengemudi mengenai keselamatan berkendara di jalan basah untuk mengurangi kecelakaan akibat kondisi cuaca
 4. Penegakan batas kecepatan di daerah perkotaan, karena kecelakaan paling sering terjadi di lingkungan perkotaan
 5. Peningkatan penerangan di rambu lalu lintas di malam hari, karena meskipun lebih sedikit, kecelakaan malam hari tetap signifikan
-6. Analisis lebih lanjut terhadap peningkatan kecelakaan di tahun 2022, agar bisa dilakukan tindakan pencegahan lebih efektif
