@@ -51,5 +51,29 @@ Saya sarankan untuk mendownload terlebih dahulu file nya dalam format .xlsx
   - Namun, kecelakaan malam hari masih signifikan (27%), mungkin karena faktor pencahayaan yang kurang dan kelelahan pengemudi
   - Perlu peningkatan penerangan jalan dan kampanye keselamatan berkendara di malam hari
 5. **Jenis Jalan yang Paling Banyak Terjadi Kecelakaan)**
-  
+    - Single Carriageway (Jalan Raya 1 Jalur): 309.698 kasus
+    - Dual Carriageway (Jalan Raya 2 Jalur): 67.868 kasus
+    - Roundabout (Bundaran): 26.828 kasus
+- **Insight**
+  - Jalan satu jalur (single carriageway) adalah yang paling berbahaya
+  - Diperlukan rekayasa lalu lintas yang lebih baik, seperti pembatas jalan dan penerapan batas kecepatan
+6. **Kondisi Permukaan Jalan dan Dampaknya terhadap Kecelakaan**
+    - Jalan Kering: 279.445 kecelakaan
+    - Jalan Basah: 115.261 kecelakaan
+- **Insight**
+  - Sebagian besar kecelakaan terjadi di jalan kering, menunjukkan bahwa kecepatan kendaraan dan perilaku pengemudi lebih berpengaruh dibanding kondisi cuaca
+  - Namun, kecelakaan di jalan basah cukup tinggi, sehingga peningkatan kesadaran pengemudi tentang cara berkendara saat hujan sangat penting
+7. **Tren Kecelakaan per Bulan (2021 vs 2022)**
+    - Terjadi peningkatan jumlah kecelakaan sepanjang tahun 2022 dibanding 2021
+    - Jumlah kecelakaan cenderung stabil setiap bulan, dengan sedikit peningkatan di pertengahan tahun
+- **Insight**
+  - Perlu dilakukan analisis lebih lanjut mengenai faktor penyebab peningkatan kecelakaan di tahun 2022
+  - Bisa jadi ada faktor eksternal seperti peningkatan jumlah kendaraan atau perubahan kebijakan lalu lintas
 
+## Kesimpulan dan Rekomendasi
+1. Fokus pada keselamatan pengemudi mobil dan motor, karena mereka paling banyak terlibat dalam kecelakaan
+2. Perbaiki infrastruktur di jalan satu jalur (single carriageway) untuk mengurangi kecelakaan di jalur ini
+3. Edukasi pengemudi mengenai keselamatan berkendara di jalan basah untuk mengurangi kecelakaan akibat kondisi cuaca
+4. Penegakan batas kecepatan di daerah perkotaan, karena kecelakaan paling sering terjadi di lingkungan perkotaan
+5. Peningkatan penerangan di rambu lalu lintas di malam hari, karena meskipun lebih sedikit, kecelakaan malam hari tetap signifikan
+6. Analisis lebih lanjut terhadap peningkatan kecelakaan di tahun 2022, agar bisa dilakukan tindakan pencegahan lebih efektif
